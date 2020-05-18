@@ -1,0 +1,115 @@
+2020-05-14 05:06:49.705 INFO [main]com.jike.car.api.CarApplication.logStarting:55 -Starting CarApplication on NISDL10110 with PID 28988 (started by spcdle in D:\jike\L2\项目一\program)
+2020-05-14 05:06:49.720 INFO [main]com.jike.car.api.CarApplication.logStartupProfileInfo:651 -No active profile set, falling back to default profiles: default
+2020-05-14 05:06:50.674 INFO [main]o.s.boot.web.embedded.tomcat.TomcatWebServer.initialize:92 -Tomcat initialized with port(s): 8080 (http)
+2020-05-14 05:06:50.689 INFO [main]org.apache.coyote.http11.Http11NioProtocol.log:173 -Initializing ProtocolHandler ["http-nio-8080"]
+2020-05-14 05:06:50.689 INFO [main]org.apache.catalina.core.StandardService.log:173 -Starting service [Tomcat]
+2020-05-14 05:06:50.689 INFO [main]org.apache.catalina.core.StandardEngine.log:173 -Starting Servlet engine: [Apache Tomcat/9.0.31]
+2020-05-14 05:06:50.752 INFO [main]o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log:173 -Initializing Spring embedded WebApplicationContext
+2020-05-14 05:06:50.752 INFO [main]org.springframework.web.context.ContextLoader.prepareWebApplicationContext:284 -Root WebApplicationContext: initialization completed in 1000 ms
+2020-05-14 05:06:51.017 INFO [main]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.initialize:181 -Initializing ExecutorService 'applicationTaskExecutor'
+2020-05-14 05:06:51.189 INFO [main]org.apache.coyote.http11.Http11NioProtocol.log:173 -Starting ProtocolHandler ["http-nio-8080"]
+2020-05-14 05:06:51.205 INFO [main]o.s.boot.web.embedded.tomcat.TomcatWebServer.start:204 -Tomcat started on port(s): 8080 (http) with context path ''
+2020-05-14 05:06:51.205 INFO [main]com.jike.car.api.CarApplication.logStarted:61 -Started CarApplication in 2.243 seconds (JVM running for 3.193)
+2020-05-14 05:07:21.705 INFO [http-nio-8080-exec-2]o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log:173 -Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-05-14 05:07:21.706 INFO [http-nio-8080-exec-2]org.springframework.web.servlet.DispatcherServlet.initServletBean:525 -Initializing Servlet 'dispatcherServlet'
+2020-05-14 05:07:21.711 INFO [http-nio-8080-exec-2]org.springframework.web.servlet.DispatcherServlet.initServletBean:547 -Completed initialization in 5 ms
+2020-05-14 05:07:21.799 INFO [http-nio-8080-exec-2]com.zaxxer.hikari.HikariDataSource.getConnection:110 -HikariPool-1 - Starting...
+2020-05-14 05:07:22.301 INFO [http-nio-8080-exec-2]com.zaxxer.hikari.HikariDataSource.getConnection:123 -HikariPool-1 - Start completed.
+2020-05-14 09:11:01.037 INFO [main]com.jike.car.api.CarApplication.logStarting:55 -Starting CarApplication on NISDL10110 with PID 36980 (started by spcdle in D:\jike\L2\项目一\program)
+2020-05-14 09:11:01.041 INFO [main]com.jike.car.api.CarApplication.logStartupProfileInfo:651 -No active profile set, falling back to default profiles: default
+2020-05-14 09:11:01.832 INFO [main]o.s.boot.web.embedded.tomcat.TomcatWebServer.initialize:92 -Tomcat initialized with port(s): 8080 (http)
+2020-05-14 09:11:01.838 INFO [main]org.apache.coyote.http11.Http11NioProtocol.log:173 -Initializing ProtocolHandler ["http-nio-8080"]
+2020-05-14 09:11:01.839 INFO [main]org.apache.catalina.core.StandardService.log:173 -Starting service [Tomcat]
+2020-05-14 09:11:01.839 INFO [main]org.apache.catalina.core.StandardEngine.log:173 -Starting Servlet engine: [Apache Tomcat/9.0.31]
+2020-05-14 09:11:01.903 INFO [main]o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log:173 -Initializing Spring embedded WebApplicationContext
+2020-05-14 09:11:01.903 INFO [main]org.springframework.web.context.ContextLoader.prepareWebApplicationContext:284 -Root WebApplicationContext: initialization completed in 824 ms
+2020-05-14 09:11:02.157 INFO [main]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.initialize:181 -Initializing ExecutorService 'applicationTaskExecutor'
+2020-05-14 09:11:02.298 INFO [main]org.apache.coyote.http11.Http11NioProtocol.log:173 -Starting ProtocolHandler ["http-nio-8080"]
+2020-05-14 09:11:02.314 INFO [main]o.s.boot.web.embedded.tomcat.TomcatWebServer.start:204 -Tomcat started on port(s): 8080 (http) with context path ''
+2020-05-14 09:11:02.317 INFO [main]com.jike.car.api.CarApplication.logStarted:61 -Started CarApplication in 11.822 seconds (JVM running for 12.548)
+2020-05-14 09:13:32.070 INFO [main]com.jike.car.api.CarApplication.logStarting:55 -Starting CarApplication on NISDL10110 with PID 37752 (started by spcdle in D:\jike\L2\项目一\program)
+2020-05-14 09:13:32.073 INFO [main]com.jike.car.api.CarApplication.logStartupProfileInfo:651 -No active profile set, falling back to default profiles: default
+2020-05-14 09:13:33.038 INFO [main]o.s.boot.web.embedded.tomcat.TomcatWebServer.initialize:92 -Tomcat initialized with port(s): 8080 (http)
+2020-05-14 09:13:33.046 INFO [main]org.apache.coyote.http11.Http11NioProtocol.log:173 -Initializing ProtocolHandler ["http-nio-8080"]
+2020-05-14 09:13:33.046 INFO [main]org.apache.catalina.core.StandardService.log:173 -Starting service [Tomcat]
+2020-05-14 09:13:33.046 INFO [main]org.apache.catalina.core.StandardEngine.log:173 -Starting Servlet engine: [Apache Tomcat/9.0.31]
+2020-05-14 09:13:33.109 INFO [main]o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log:173 -Initializing Spring embedded WebApplicationContext
+2020-05-14 09:13:33.110 INFO [main]org.springframework.web.context.ContextLoader.prepareWebApplicationContext:284 -Root WebApplicationContext: initialization completed in 984 ms
+2020-05-14 09:13:33.340 INFO [main]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.initialize:181 -Initializing ExecutorService 'applicationTaskExecutor'
+2020-05-14 09:13:33.467 INFO [main]org.apache.coyote.http11.Http11NioProtocol.log:173 -Starting ProtocolHandler ["http-nio-8080"]
+2020-05-14 09:13:33.482 INFO [main]o.s.boot.web.embedded.tomcat.TomcatWebServer.start:204 -Tomcat started on port(s): 8080 (http) with context path ''
+2020-05-14 09:13:33.485 INFO [main]com.jike.car.api.CarApplication.logStarted:61 -Started CarApplication in 1.769 seconds (JVM running for 2.321)
+2020-05-14 09:13:48.348 INFO [http-nio-8080-exec-2]o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log:173 -Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-05-14 09:13:48.348 INFO [http-nio-8080-exec-2]org.springframework.web.servlet.DispatcherServlet.initServletBean:525 -Initializing Servlet 'dispatcherServlet'
+2020-05-14 09:13:48.432 INFO [http-nio-8080-exec-2]org.springframework.web.servlet.DispatcherServlet.initServletBean:547 -Completed initialization in 84 ms
+2020-05-14 09:18:25.310 INFO [http-nio-8080-exec-3]com.zaxxer.hikari.HikariDataSource.getConnection:110 -HikariPool-1 - Starting...
+2020-05-14 09:18:25.801 INFO [http-nio-8080-exec-3]com.zaxxer.hikari.HikariDataSource.getConnection:123 -HikariPool-1 - Start completed.
+2020-05-14 09:20:53.427 INFO [main]com.jike.car.api.CarApplication.logStarting:55 -Starting CarApplication on NISDL10110 with PID 33108 (started by spcdle in D:\jike\L2\项目一\program)
+2020-05-14 09:20:53.430 INFO [main]com.jike.car.api.CarApplication.logStartupProfileInfo:651 -No active profile set, falling back to default profiles: default
+2020-05-14 09:20:54.533 INFO [main]o.s.boot.web.embedded.tomcat.TomcatWebServer.initialize:92 -Tomcat initialized with port(s): 8080 (http)
+2020-05-14 09:20:54.540 INFO [main]org.apache.coyote.http11.Http11NioProtocol.log:173 -Initializing ProtocolHandler ["http-nio-8080"]
+2020-05-14 09:20:54.541 INFO [main]org.apache.catalina.core.StandardService.log:173 -Starting service [Tomcat]
+2020-05-14 09:20:54.541 INFO [main]org.apache.catalina.core.StandardEngine.log:173 -Starting Servlet engine: [Apache Tomcat/9.0.31]
+2020-05-14 09:20:54.607 INFO [main]o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log:173 -Initializing Spring embedded WebApplicationContext
+2020-05-14 09:20:54.607 INFO [main]org.springframework.web.context.ContextLoader.prepareWebApplicationContext:284 -Root WebApplicationContext: initialization completed in 1125 ms
+2020-05-14 09:20:54.880 INFO [main]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.initialize:181 -Initializing ExecutorService 'applicationTaskExecutor'
+2020-05-14 09:20:55.030 INFO [main]org.apache.coyote.http11.Http11NioProtocol.log:173 -Starting ProtocolHandler ["http-nio-8080"]
+2020-05-14 09:20:55.051 INFO [main]o.s.boot.web.embedded.tomcat.TomcatWebServer.start:204 -Tomcat started on port(s): 8080 (http) with context path ''
+2020-05-14 09:20:55.055 INFO [main]com.jike.car.api.CarApplication.logStarted:61 -Started CarApplication in 2.067 seconds (JVM running for 3.452)
+2020-05-14 09:21:05.029 INFO [http-nio-8080-exec-1]o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log:173 -Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-05-14 09:21:05.030 INFO [http-nio-8080-exec-1]org.springframework.web.servlet.DispatcherServlet.initServletBean:525 -Initializing Servlet 'dispatcherServlet'
+2020-05-14 09:21:05.039 INFO [http-nio-8080-exec-1]org.springframework.web.servlet.DispatcherServlet.initServletBean:547 -Completed initialization in 9 ms
+2020-05-14 09:21:33.120 INFO [http-nio-8080-exec-1]com.zaxxer.hikari.HikariDataSource.getConnection:110 -HikariPool-1 - Starting...
+2020-05-14 09:21:35.112 INFO [http-nio-8080-exec-1]com.zaxxer.hikari.HikariDataSource.getConnection:123 -HikariPool-1 - Start completed.
+2020-05-14 09:22:53.175 WARN [HikariPool-1 housekeeper]com.zaxxer.hikari.pool.HikariPool.run:779 -HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m17s954ms426µs841ns).
+2020-05-14 09:24:15.527 WARN [HikariPool-1 housekeeper]com.zaxxer.hikari.pool.HikariPool.run:779 -HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m22s354ms180µs285ns).
+2020-05-14 09:26:56.768 WARN [HikariPool-1 housekeeper]com.zaxxer.hikari.pool.HikariPool.run:779 -HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2m41s245ms241µs382ns).
+2020-05-14 09:27:07.109 INFO [SpringContextShutdownHook]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.shutdown:218 -Shutting down ExecutorService 'applicationTaskExecutor'
+2020-05-14 09:27:07.111 INFO [SpringContextShutdownHook]com.zaxxer.hikari.HikariDataSource.close:350 -HikariPool-1 - Shutdown initiated...
+2020-05-14 09:27:07.251 INFO [SpringContextShutdownHook]com.zaxxer.hikari.HikariDataSource.close:352 -HikariPool-1 - Shutdown completed.
+2020-05-14 09:27:22.624 INFO [main]com.jike.car.api.CarApplication.logStarting:55 -Starting CarApplication on NISDL10110 with PID 36368 (started by spcdle in D:\jike\L2\项目一\program)
+2020-05-14 09:27:22.628 INFO [main]com.jike.car.api.CarApplication.logStartupProfileInfo:651 -No active profile set, falling back to default profiles: default
+2020-05-14 09:27:23.500 INFO [main]o.s.boot.web.embedded.tomcat.TomcatWebServer.initialize:92 -Tomcat initialized with port(s): 8080 (http)
+2020-05-14 09:27:23.506 INFO [main]org.apache.coyote.http11.Http11NioProtocol.log:173 -Initializing ProtocolHandler ["http-nio-8080"]
+2020-05-14 09:27:23.506 INFO [main]org.apache.catalina.core.StandardService.log:173 -Starting service [Tomcat]
+2020-05-14 09:27:23.507 INFO [main]org.apache.catalina.core.StandardEngine.log:173 -Starting Servlet engine: [Apache Tomcat/9.0.31]
+2020-05-14 09:27:23.567 INFO [main]o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log:173 -Initializing Spring embedded WebApplicationContext
+2020-05-14 09:27:23.567 INFO [main]org.springframework.web.context.ContextLoader.prepareWebApplicationContext:284 -Root WebApplicationContext: initialization completed in 895 ms
+2020-05-14 09:27:23.797 INFO [main]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.initialize:181 -Initializing ExecutorService 'applicationTaskExecutor'
+2020-05-14 09:27:23.924 INFO [main]org.apache.coyote.http11.Http11NioProtocol.log:173 -Starting ProtocolHandler ["http-nio-8080"]
+2020-05-14 09:27:23.941 INFO [main]o.s.boot.web.embedded.tomcat.TomcatWebServer.start:204 -Tomcat started on port(s): 8080 (http) with context path ''
+2020-05-14 09:27:23.943 INFO [main]com.jike.car.api.CarApplication.logStarted:61 -Started CarApplication in 1.707 seconds (JVM running for 2.242)
+2020-05-14 09:27:33.210 INFO [main]com.jike.car.api.CarApplication.logStarting:55 -Starting CarApplication on NISDL10110 with PID 28240 (started by spcdle in D:\jike\L2\项目一\program)
+2020-05-14 09:27:33.213 INFO [main]com.jike.car.api.CarApplication.logStartupProfileInfo:651 -No active profile set, falling back to default profiles: default
+2020-05-14 09:27:34.154 INFO [main]o.s.boot.web.embedded.tomcat.TomcatWebServer.initialize:92 -Tomcat initialized with port(s): 8080 (http)
+2020-05-14 09:27:34.160 INFO [main]org.apache.coyote.http11.Http11NioProtocol.log:173 -Initializing ProtocolHandler ["http-nio-8080"]
+2020-05-14 09:27:34.160 INFO [main]org.apache.catalina.core.StandardService.log:173 -Starting service [Tomcat]
+2020-05-14 09:27:34.160 INFO [main]org.apache.catalina.core.StandardEngine.log:173 -Starting Servlet engine: [Apache Tomcat/9.0.31]
+2020-05-14 09:27:34.223 INFO [main]o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log:173 -Initializing Spring embedded WebApplicationContext
+2020-05-14 09:27:34.224 INFO [main]org.springframework.web.context.ContextLoader.prepareWebApplicationContext:284 -Root WebApplicationContext: initialization completed in 968 ms
+2020-05-14 09:27:34.456 INFO [main]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.initialize:181 -Initializing ExecutorService 'applicationTaskExecutor'
+2020-05-14 09:27:34.584 INFO [main]org.apache.coyote.http11.Http11NioProtocol.log:173 -Starting ProtocolHandler ["http-nio-8080"]
+2020-05-14 09:27:34.599 INFO [main]o.s.boot.web.embedded.tomcat.TomcatWebServer.start:204 -Tomcat started on port(s): 8080 (http) with context path ''
+2020-05-14 09:27:34.602 INFO [main]com.jike.car.api.CarApplication.logStarted:61 -Started CarApplication in 1.732 seconds (JVM running for 2.257)
+2020-05-14 09:27:39.430 INFO [http-nio-8080-exec-2]o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log:173 -Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-05-14 09:27:39.431 INFO [http-nio-8080-exec-2]org.springframework.web.servlet.DispatcherServlet.initServletBean:525 -Initializing Servlet 'dispatcherServlet'
+2020-05-14 09:27:39.506 INFO [http-nio-8080-exec-2]org.springframework.web.servlet.DispatcherServlet.initServletBean:547 -Completed initialization in 75 ms
+2020-05-14 09:27:39.545 INFO [http-nio-8080-exec-2]com.zaxxer.hikari.HikariDataSource.getConnection:110 -HikariPool-1 - Starting...
+2020-05-14 09:27:39.882 INFO [http-nio-8080-exec-2]com.zaxxer.hikari.HikariDataSource.getConnection:123 -HikariPool-1 - Start completed.
+2020-05-14 09:39:13.447 INFO [main]com.jike.car.api.CarApplication.logStarting:55 -Starting CarApplication on NISDL10110 with PID 27752 (started by spcdle in D:\jike\L2\项目一\program)
+2020-05-14 09:39:13.452 INFO [main]com.jike.car.api.CarApplication.logStartupProfileInfo:651 -No active profile set, falling back to default profiles: default
+2020-05-14 09:39:14.868 INFO [main]o.s.boot.web.embedded.tomcat.TomcatWebServer.initialize:92 -Tomcat initialized with port(s): 8080 (http)
+2020-05-14 09:39:14.874 INFO [main]org.apache.coyote.http11.Http11NioProtocol.log:173 -Initializing ProtocolHandler ["http-nio-8080"]
+2020-05-14 09:39:14.875 INFO [main]org.apache.catalina.core.StandardService.log:173 -Starting service [Tomcat]
+2020-05-14 09:39:14.875 INFO [main]org.apache.catalina.core.StandardEngine.log:173 -Starting Servlet engine: [Apache Tomcat/9.0.31]
+2020-05-14 09:39:14.935 INFO [main]o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log:173 -Initializing Spring embedded WebApplicationContext
+2020-05-14 09:39:14.936 INFO [main]org.springframework.web.context.ContextLoader.prepareWebApplicationContext:284 -Root WebApplicationContext: initialization completed in 1343 ms
+2020-05-14 09:39:15.168 INFO [main]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.initialize:181 -Initializing ExecutorService 'applicationTaskExecutor'
+2020-05-14 09:39:15.297 INFO [main]org.apache.coyote.http11.Http11NioProtocol.log:173 -Starting ProtocolHandler ["http-nio-8080"]
+2020-05-14 09:39:15.314 INFO [main]o.s.boot.web.embedded.tomcat.TomcatWebServer.start:204 -Tomcat started on port(s): 8080 (http) with context path ''
+2020-05-14 09:39:15.316 INFO [main]com.jike.car.api.CarApplication.logStarted:61 -Started CarApplication in 2.279 seconds (JVM running for 2.851)
+2020-05-14 09:39:57.042 INFO [http-nio-8080-exec-1]o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log:173 -Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-05-14 09:39:57.043 INFO [http-nio-8080-exec-1]org.springframework.web.servlet.DispatcherServlet.initServletBean:525 -Initializing Servlet 'dispatcherServlet'
+2020-05-14 09:39:57.047 INFO [http-nio-8080-exec-1]org.springframework.web.servlet.DispatcherServlet.initServletBean:547 -Completed initialization in 4 ms
+2020-05-14 09:39:57.166 INFO [http-nio-8080-exec-1]com.zaxxer.hikari.HikariDataSource.getConnection:110 -HikariPool-1 - Starting...
+2020-05-14 09:39:57.571 INFO [http-nio-8080-exec-1]com.zaxxer.hikari.HikariDataSource.getConnection:123 -HikariPool-1 - Start completed.
